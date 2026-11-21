@@ -1,8 +1,8 @@
-# Claude Code templates and cheat sheets
+# Claude and Codex templates and cheat sheets
 
 [Русская версия](README.md)
 
-Materials for our short videos about Claude Code and Codex. Download the file you need and use it.
+Materials for our short videos about Claude, Claude Code and Codex. Download the file you need and use it.
 
 | File | What it is | Video |
 |---|---|---|
@@ -11,6 +11,9 @@ Materials for our short videos about Claude Code and Codex. Download the file yo
 | [resume_conversation.md](resume_conversation.md) | Get back to a past conversation: `claude --continue`, `--resume` | RESUME |
 | [file_mentions.md](file_mentions.md) | Point Claude to the right file with `@` | FILE |
 | [AGENTS_template.en.md](AGENTS_template.en.md) | AGENTS.md template — permanent rules for Codex (rename to AGENTS.md) | AGENTS |
+| [markitdown_guide.md](markitdown_guide.md) | Connect MarkItDown to the Claude app: PDFs and Word files become clean text and use less of your limit | TEXT |
+| [karpathy_skill.md](karpathy_skill.md) | A skill based on Andrej Karpathy's rules: Claude keeps it simple and changes only what's needed. How to upload it to Skills | SIMPLE |
+| [defense_project.md](defense_project.md) | A Claude Project as your strictest professor: a ready-made instruction to prepare for your defense | DEFENSE |
 
 ## How to use the CLAUDE.md template
 1. Download `CLAUDE_template.en.md` and put it in the root of your project.
