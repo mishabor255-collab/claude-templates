@@ -2,12 +2,15 @@
 
 [Русская версия](README.md)
 
-Materials for our short videos about Claude Code. Download the file you need and use it.
+Materials for our short videos about Claude Code and Codex. Download the file you need and use it.
 
 | File | What it is | Video |
 |---|---|---|
 | [CLAUDE_template.en.md](CLAUDE_template.en.md) | A CLAUDE.md rules template: how Claude should talk to you, what matters in the project, what not to touch | RULES |
 | [claude_code_modes.md](claude_code_modes.md) | Cheat sheet for three Claude Code modes (Shift+Tab) and working in plan mode | PLAN |
+| [resume_conversation.md](resume_conversation.md) | Get back to a past conversation: `claude --continue`, `--resume` | RESUME |
+| [file_mentions.md](file_mentions.md) | Point Claude to the right file with `@` | FILE |
+| [AGENTS_template.en.md](AGENTS_template.en.md) | AGENTS.md template — permanent rules for Codex (rename to AGENTS.md) | AGENTS |
 
 ## How to use the CLAUDE.md template
 1. Download `CLAUDE_template.en.md` and put it in the root of your project.
