@@ -14,6 +14,12 @@ Materials for our short videos about Claude, Claude Code and Codex. Download the
 | [markitdown_guide.md](markitdown_guide.md) | Connect MarkItDown to the Claude app: PDFs and Word files become clean text and use less of your limit | TEXT |
 | [karpathy_skill.md](karpathy_skill.md) | A skill based on Andrej Karpathy's rules: Claude keeps it simple and changes only what's needed. How to upload it to Skills | SIMPLE |
 | [defense_project.md](defense_project.md) | A Claude Project as your strictest professor: a ready-made instruction to prepare for your defense | DEFENSE |
+| [context7_guide.md](context7_guide.md) | Context7 in Claude: current library documentation instead of outdated advice | DOCS |
+| [artifacts_guide.md](artifacts_guide.md) | Artifacts: a chore wheel and other mini tools right in the chat | SPIN |
+| [theme_factory_guide.md](theme_factory_guide.md) | The theme-factory skill: consistent colors and fonts for slides and documents | COLOR |
+| [excalidraw_guide.md](excalidraw_guide.md) | Excalidraw in Claude: diagrams you can edit inside the chat | MAP |
+| [web_search_guide.md](web_search_guide.md) | Claude web search: check your plans against current sources with links | FIND |
+| [budget_xlsx_guide.md](budget_xlsx_guide.md) | A trip budget as an Excel file with formulas — ready prompt and checks | TOTAL |
 
 ## How to use the CLAUDE.md template
 1. Download `CLAUDE_template.en.md` and put it in the root of your project.
