@@ -25,6 +25,16 @@
 | [slack_gif_гайд.md](slack_gif_гайд.md) | Навык slack-gif-creator: анимированные GIF для рабочего чата | ГУСЬ |
 | [incognito_гайд.md](incognito_гайд.md) | Инкогнито-чат в Claude: разговор, который не попадает в историю и память | СЮРПРИЗ |
 | [voice_mode_гайд.md](voice_mode_гайд.md) | Голосовой режим Claude: репетиция собеседования вслух | ГОЛОС |
+| [desktop_commander_гайд.md](desktop_commander_гайд.md) | Desktop Commander: Claude Desktop находит файлы на компьютере | ПАПКИ |
+| [invoice_sort_гайд.md](invoice_sort_гайд.md) | Навык invoice-organizer: Claude разбирает чеки и счета | ЧЕКИ |
+| [zotero_library_гайд.md](zotero_library_гайд.md) | Zotero MCP: Claude ищет по твоей библиотеке статей | НАУКА |
+| [canvas_poster_гайд.md](canvas_poster_гайд.md) | Навык canvas-design: афиша или постер прямо в Claude | АФИША |
+| [obsidian_notes_гайд.md](obsidian_notes_гайд.md) | Obsidian MCP: Claude работает с твоими заметками | МЫСЛИ |
+| [time_zones_гайд.md](time_zones_гайд.md) | Time MCP: точное время и часовые пояса в Claude | ЧАСЫ |
+| [image_labels_гайд.md](image_labels_гайд.md) | Claude объясняет значки по фото (ярлык на одежде) | ФОТО |
+| [memory_update_гайд.md](memory_update_гайд.md) | Память Claude: как исправить устаревшие сведения | ПАМЯТЬ |
+| [brief_answers_гайд.md](brief_answers_гайд.md) | Инструкции для Claude: короткие ответы без воды | КОРОЧЕ |
+| [calendar_slot_гайд.md](calendar_slot_гайд.md) | Google Calendar в Claude: найти свободный час | ОКНО |
 
 ## Как пользоваться шаблоном CLAUDE.md
 1. Скачай `CLAUDE_шаблон.md` и положи в корень своего проекта.

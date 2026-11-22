@@ -25,6 +25,16 @@ Materials for our short videos about Claude, Claude Code and Codex. Download the
 | [slack_gif_guide.md](slack_gif_guide.md) | The slack-gif-creator skill: animated GIFs for your work chat | GOOSE |
 | [incognito_guide.md](incognito_guide.md) | Incognito chat in Claude: a conversation that stays out of history and memory | GIFT |
 | [voice_mode_guide.md](voice_mode_guide.md) | Claude voice mode: rehearse a job interview out loud | VOICE |
+| [desktop_commander_guide.md](desktop_commander_guide.md) | Desktop Commander: Claude Desktop finds files on your computer | FOLDERS |
+| [invoice_sort_guide.md](invoice_sort_guide.md) | The invoice-organizer skill: Claude sorts receipts and invoices | RECEIPTS |
+| [zotero_library_guide.md](zotero_library_guide.md) | Zotero MCP: Claude searches your paper library | PAPERS |
+| [canvas_poster_guide.md](canvas_poster_guide.md) | The canvas-design skill: a poster right in Claude | POSTER |
+| [obsidian_notes_guide.md](obsidian_notes_guide.md) | Obsidian MCP: Claude works with your notes | NOTES |
+| [time_zones_guide.md](time_zones_guide.md) | Time MCP: exact time and time zones in Claude | CLOCK |
+| [image_labels_guide.md](image_labels_guide.md) | Claude explains symbols from a photo (clothing care label) | PHOTO |
+| [memory_update_guide.md](memory_update_guide.md) | Claude's memory: fix outdated information | MEMORY |
+| [brief_answers_guide.md](brief_answers_guide.md) | Instructions for Claude: short answers, no fluff | BRIEF |
+| [calendar_slot_guide.md](calendar_slot_guide.md) | Google Calendar in Claude: find a free hour | SLOT |
 
 ## How to use the CLAUDE.md template
 1. Download `CLAUDE_template.en.md` and put it in the root of your project.
