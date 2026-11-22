@@ -20,6 +20,11 @@ Materials for our short videos about Claude, Claude Code and Codex. Download the
 | [excalidraw_guide.md](excalidraw_guide.md) | Excalidraw in Claude: diagrams you can edit inside the chat | MAP |
 | [web_search_guide.md](web_search_guide.md) | Claude web search: check your plans against current sources with links | FIND |
 | [budget_xlsx_guide.md](budget_xlsx_guide.md) | A trip budget as an Excel file with formulas — ready prompt and checks | TOTAL |
+| [firecrawl_guide.md](firecrawl_guide.md) | Firecrawl in Claude: compare products from their page links | PICK |
+| [todoist_guide.md](todoist_guide.md) | Todoist in Claude: add tasks with due dates right from the chat | DONE |
+| [slack_gif_guide.md](slack_gif_guide.md) | The slack-gif-creator skill: animated GIFs for your work chat | GOOSE |
+| [incognito_guide.md](incognito_guide.md) | Incognito chat in Claude: a conversation that stays out of history and memory | GIFT |
+| [voice_mode_guide.md](voice_mode_guide.md) | Claude voice mode: rehearse a job interview out loud | VOICE |
 
 ## How to use the CLAUDE.md template
 1. Download `CLAUDE_template.en.md` and put it in the root of your project.
